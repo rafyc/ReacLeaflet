@@ -1,6 +1,9 @@
-# ReacLeaflet
-Feuille de route - Autoformation React + Leaflet
 
+
+## ReacLeaflet
+#Feuille de route - Autoformation React + Leaflet
+
+# projet déployé : https://reac-leaflet.vercel.app/
 
 **Jour 1** : Mise à niveau React Web + Vite - Comprendre les différences entre React Native et React DOM. - Créer un projet avec Vite (`npm create vite@latest`). - Lancer les commandes `dev`, `build`, `preview`. - Ressource : https://vitejs.dev/guide/
 
@@ -15,3 +18,6 @@ Feuille de route - Autoformation React + Leaflet
 **Jour 6** : Virtualisation - Comprendre `react-window`, `react-virtualized-auto-sizer`. - Lier une liste à la carte.
 
 **Jour 7** : Challenge final - Carte avec clustering. - Liste cliquable. - UI MUI + animation. - Petit filtre géospatial avec Turf.js.
+
+
+## projet déployé : https://reac-leaflet.vercel.app/
